@@ -8,6 +8,7 @@ public class OnlineTermInsuranceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OnlineTermInsuranceApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
